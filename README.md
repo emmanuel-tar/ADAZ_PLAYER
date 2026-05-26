@@ -3,11 +3,8 @@
 Nigerian Gospel Music Player for Android
 
 ## Features
-- Play Nigerian Gospel songs
-- Beautiful dark UI
-- ExoPlayer integration
-
-## Tech Stack
-- Kotlin
-- Jetpack Compose
-- Media3 ExoPlayer
+- Play Nigerian Gospel Music
+- Modern UI with Jetpack Compose
+- Background Playback
+- Search & Favorites
+- Offline Support (coming soon)
